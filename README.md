@@ -1,4 +1,4 @@
-Weather Forecast Project
+<h1>Weather Forecast Project</h1>
 
 This project provides a simple weather forecast application using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. It allows users to enter a location and view the current weather conditions, as well as a 5-day forecast.
 
