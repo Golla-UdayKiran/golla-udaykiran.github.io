@@ -14,10 +14,11 @@ Current Weather: Display current weather conditions, including temperature, humi
 Location Search: Allow users to search for weather information by entering a city name.
 Project Structure:
 
-index.html: HTML file containing the structure of the weather forecast application.
-style.css: CSS file for styling the application interface.
-script.js: JavaScript file for fetching weather data from the OpenWeatherMap API and updating the UI.
-assets/: Directory containing any additional assets such as icons or images.
+- <code>index.html</code>: HTML file containing the structure of the weather forecast application.
+- <code>style.css</code>: CSS file for styling the application interface.
+- <code>script.js</code>: JavaScript file for fetching weather data from the OpenWeatherMap API and updating the UI.
+- <code>assets/</code>: Directory containing any additional assets such as icons or images.
+
 Setup Instructions:
 
 Sign up for an account on OpenWeatherMap to obtain an API key.
